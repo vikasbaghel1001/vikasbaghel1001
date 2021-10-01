@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vikasbaghel1001
 - 👀 I’m interested in ..open source contribution along with learning machine learning.
-- 🌱 I’m currently learning .2nd year od clg ..
+- 🌱 I’m currently learning .2nd year of clg ..
 - 💞️ I’m looking to collaborate on . python , c++ and machine learning projects ..
 - 📫 How to reach me ...
 
